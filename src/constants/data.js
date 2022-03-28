@@ -52,6 +52,38 @@ const articles=[
         link:"https://www.examplecom"
     }
 ]
+const Experience=[
+    {
+        title:"Backend developer - Applied Labs",
+        sumary:" Is the Software, Integrated Consulting and communitions company in Latin America that born in response to the challenge of the public and private sector",
+        description:"I  was in charge of the maintenance of microservices with express and an authentication system with OpenID, I built a task module handling Nest.js and SQL technologies, I also implemented an events module that listens to the actions of the API",
+        date:"May 2021 -present"
+    },
+    {
+        title:"Backend developer - Applied Labs",
+        sumary:" Is the Software, Integrated Consulting and communitions company in Latin America that born in response to the challenge of the public and private sector",
+        description:"I  was in charge of the maintenance of microservices with express and an authentication system with OpenID, I built a task module handling Nest.js and SQL technologies, I also implemented an events module that listens to the actions of the API",
+        date:"May 2021 -present"
+    },
+    {
+        title:"Backend developer - Applied Labs",
+        sumary:" Is the Software, Integrated Consulting and communitions company in Latin America that born in response to the challenge of the public and private sector",
+        description:"I  was in charge of the maintenance of microservices with express and an authentication system with OpenID, I built a task module handling Nest.js and SQL technologies, I also implemented an events module that listens to the actions of the API",
+        date:"May 2021 -present"
+    },
+    {
+        title:"Backend developer - Applied Labs",
+        sumary:" Is the Software, Integrated Consulting and communitions company in Latin America that born in response to the challenge of the public and private sector",
+        description:"I  was in charge of the maintenance of microservices with express and an authentication system with OpenID, I built a task module handling Nest.js and SQL technologies, I also implemented an events module that listens to the actions of the API",
+        date:"May 2021 -present"
+    },
+    {
+        title:"Backend developer - Applied Labs",
+        sumary:" Is the Software, Integrated Consulting and communitions company in Latin America that born in response to the challenge of the public and private sector",
+        description:"I  was in charge of the maintenance of microservices with express and an authentication system with OpenID, I built a task module handling Nest.js and SQL technologies, I also implemented an events module that listens to the actions of the API",
+        date:"May 2021 -present"
+    }
+]
 const socialMedia=[
     {
         title:"facebook",
@@ -65,4 +97,4 @@ const socialMedia=[
     }
 ]
 
-export default {projects,articles,socialMedia}
+export default {projects,articles,socialMedia,Experience}
