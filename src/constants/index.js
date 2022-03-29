@@ -1,2 +1,3 @@
 import data from './data';
-export {data};
+import images from './images';
+export {data,images};

@@ -6,8 +6,8 @@ import './Project.css';
 const Projects = () => (
   <div>
     <NavBar/>
-    <Project/>
-    <Article/>
+    <Project />
+    <Article />
     <SocialMedia/>
     <Footer/>
   </div>
